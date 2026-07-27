@@ -1,0 +1,6 @@
+data/
+cache/
+outputs/
+*.gpkg
+__pycache__/
+.ipynb_checkpoints/
